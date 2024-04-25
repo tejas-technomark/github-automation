@@ -15,7 +15,7 @@ then
 			git checkout -b $tm_branchname main
 		else
 			echo "ELSE"
-			git checkout $checkout_output
+			git checkout $tm_branchname
 			git pull
 		fi
 		cp -a /home/tejasambalia/Documents/GitHub/tm-givsum/app/. /home/tejasambalia/Documents/GitHub-master/givsum/app
