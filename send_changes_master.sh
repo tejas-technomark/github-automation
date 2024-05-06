@@ -1,5 +1,5 @@
 cd /home/tejasambalia/Documents/GitHub/tm-givsum
-git checkout main
+git checkout client-repo-2024-0426
 git pull
 cd /home/tejasambalia/Documents/GitHub-master/givsum
 git checkout main
